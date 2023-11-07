@@ -12,5 +12,23 @@
 		any;
 		};
 	};
-``
-##
+`
+
+----------------------
+## Ahora cambiaremos named.conf.options 
+`options {
+	directory "/var/cache/bind";
+
+	forwarders {
+	 	8.8.8.8;
+		1.1.1.1;
+	 };
+	 forward only;
+
+	listen-on { any; };
+	listen-on-v6 { any; };
+
+	allow-query {
+		any;
+	};
+};`
