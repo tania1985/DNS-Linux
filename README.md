@@ -49,7 +49,7 @@
 `test	IN A	172.28.5.4`
 `wwww    IN A    172.28.5.7`
 `alias	IN CNAME  test`
-`texto   IN TXT 	mensaje``
+`texto   IN TXT 	mensaje`
 
 -------------------
 
