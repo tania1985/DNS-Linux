@@ -53,4 +53,14 @@
 
 -------------------
 
+## Descargar el dnsutils para poder hacer un dig
+
+- `sudo apt install dnsutils`
+
+-------------------
+
+# Para ver si nuestro bind9 está arrancado 
+
+- `systemctl status bind9``
+
 
