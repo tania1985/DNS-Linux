@@ -11,8 +11,8 @@
 	allow-query {
 		any;
 		};
-	};
-`
+	};``
+
 
 ----------------------
 ## Ahora cambiaremos named.conf.options 
