@@ -61,6 +61,6 @@
 
 # Para ver si nuestro bind9 está arrancado 
 
-- `systemctl status bind9``
+- `systemctl status bind9`
 
 
